@@ -1,0 +1,8 @@
+<h1>Welcome#index</h1>
+<p>Find me in app/views/welcome/index.html.erb</p>
+
+<div class="field" data-controller="tinymce">
+  <%= text_area_tag :body, "Hello, World", data: { tinymce_target: 'input' }, class: "tinymce", rows: 20, cols: 60 %>
+</div>
+
+<%= tinymce %>
