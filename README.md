@@ -8,6 +8,10 @@ This leads to TinyMCE not being properly detached and reattached when a Turbo Dr
 
 ## Instructions
 
+Details about the integration can be found in this [Gist](https://gist.github.com/david-uhlig/ccdda4800156e1dadeedfc0411736267).
+
+## Try out the example integration
+
 **1. Clone the repository**
 
 ```
