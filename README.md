@@ -1,4 +1,4 @@
-# Example Integration for TinyMCE in Rails 7 with Turbo Drive Support
+# Example Integration of TinyMCE in Rails 7 with Turbo Drive Support
 
 This example project demonstrates the integration of the [TinyMCE](https://www.tiny.cloud/) editor in Rails 7. It utilizes the well known [tinymce-rails](https://github.com/spohlenz/tinymce-rails) gem and offers full Turbo Drive support through an additional Stimulus controller.
 
@@ -32,7 +32,7 @@ Open http://localhost:3000 in your browser.
 
 ### Without the `tinymce-rails` gem
 
-The `tinymce-rails` gem is not strictly necessary. You may also use Tiny Cloud CDN similarly as described [here](https://www.tiny.cloud/docs/tinymce/6/rails-cloud/).
+The `tinymce-rails` gem is not strictly necessary. You may also use the Tiny Cloud CDN similarly as described [here](https://www.tiny.cloud/docs/tinymce/6/rails-cloud/).
 
 **1. Add the following line to the `<head>` section of `app/views/layouts/application.html.erb`**
 
